@@ -1,6 +1,5 @@
 # inventory-management
-This is a inventory management system
-![Alt text](inventory_system_ui.png "Optional Title")
+
 
 # How to Setup
 1. Clone Project
